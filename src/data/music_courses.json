@@ -1,0 +1,94 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Music Theory",
+            "slug": "guitar-fundamentals",
+            "description": "Learn the basics of playing guitar with our step-by-step guide course.",
+            "price": 99.99,
+            "instructor": "John Doe",
+            "isFeatured": true,
+            "image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+        },
+        {
+            "id": 2,
+            "title": "Violin",
+            "slug": "violin-fundamentals",
+            "description": "Learn the basics of playing guitar with our step-by-step guide course.",
+            "price": 99.99,
+            "instructor": "David Smith",
+            "isFeatured": true,
+            "image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+        },
+        {
+            "id": 3,
+            "title": "Piano For beginners",
+            "slug": "Piano-fundamentals",
+            "description": "Learn the basics of playing guitar with our step-by-step guide course.",
+            "price": 99.99,
+            "instructor": "David Smith",
+            "isFeatured": true,
+            "image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+        },
+        {
+            "id": 4,
+            "title": "Drums For beginners",
+            "slug": "Drums Fundamentals",
+            "description": "Learn the basics of playing guitar with our step-by-step guide course.",
+            "price": 99.99,
+            "instructor": "David Smith",
+            "isFeatured": true,
+            "image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+        },
+        {
+            "id": 5,
+            "title": "Bansonri",
+            "slug": "bansonri-fundamentals",
+            "description": "Learn the basics of playing guitar with our step-by-step guide course.",
+            "price": 99.99,
+            "instructor": "David Smith",
+            "isFeatured": true,
+            "image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+        },
+        {
+            "id": 6,
+            "title": "Literal guitar",
+            "slug": "Literal guitar-fundamentals",
+            "description": "Learn the basics of playing guitar with our step-by-step guide course.",
+            "price": 99.99,
+            "instructor": "David Smith",
+            "isFeatured": true,
+            "image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+        },
+        {
+            "id": 7,
+            "title": "Violin",
+            "slug": "violin-fundamentals",
+            "description": "Learn the basics of playing guitar with our step-by-step guide course.",
+            "price": 99.99,
+            "instructor": "David Smith",
+            "isFeatured": true,
+            "image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+        },
+        {
+            "id": 8,
+            "title": "Violin",
+            "slug": "violin-fundamentals",
+            "description": "Learn the basics of playing guitar with our step-by-step guide course.",
+            "price": 99.99,
+            "instructor": "David Smith",
+            "isFeatured": true,
+            "image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+        },
+        {
+            "id": 9,
+            "title": "Violin",
+            "slug": "violin-fundamentals",
+            "description": "Learn the basics of playing guitar with our step-by-step guide course.",
+            "price": 99.99,
+            "instructor": "David Smith",
+            "isFeatured": true,
+            "image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+        }
+    ]
+}
